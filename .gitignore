@@ -1,0 +1,8 @@
+.env
+.env.example
+_pycache_/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+*.log
