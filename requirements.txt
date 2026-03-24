@@ -7,3 +7,9 @@ pypdf
 python-dotenv
 uvicorn
 gunicorn
+langchain-huggingface
+langchain-core
+sentence-transformers
+huggingface-hub
+torch
+transformers
